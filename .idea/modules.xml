@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../modeling/.idea/modeling.iml" filepath="$PROJECT_DIR$/../modeling/.idea/modeling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/protect information.iml" filepath="$PROJECT_DIR$/.idea/protect information.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bd_cursach/project_for_bd/virus_project/.idea/virus_project.iml" filepath="$PROJECT_DIR$/../bd_cursach/project_for_bd/virus_project/.idea/virus_project.iml" />
+    </modules>
+  </component>
+</project>
